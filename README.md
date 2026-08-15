@@ -4,7 +4,7 @@ I am a senior studying Computer Science & Data Science at Creighton University, 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools Knowledge
 
 * **Languages:** Java, Python, HTML, Clojure, R
 * **Project Management:** Agile Development, Jira/SCRUM, Software Development Lifecycle
