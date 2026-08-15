@@ -1,9 +1,38 @@
-## Hello! 👋
+## 👋 Hello! My name is Catherine Larson!
 
-<!--
-**catherinelarson-0/catherinelarson-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior studying Computer Science & Data Science at Creighton University, with minors in Mathematics, Musical Theatre, and French & Francophone Studies. I am interested in Project Management & Quality Assurance roles.
 
-- 🔭 I’m a current Student Fellow in the CI Compass Fellowship Spring 2025 Cohort.
-- 🌱 I’m currently learning Data Structures, Java, Python, & RStudio.
-- 😄 Pronouns: She/Her/Hers
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Java, Python, HTML, Clojure, R
+* **Project Management:** Agile Development, Jira/SCRUM, Software Development Lifecycle
+* **Libraries:** TensorFlow, SciKit-Learn, MatPlotLib, Pandas, NumPy
+* **Databases:** MySQL, LibreOffice Base/Basic
+* **Deployment:** Docker, HuggingFace, Git, GitHub, Spring/SpringBoot
+*  **Coding Environments:** VSCode, RStudio/Quarto, Idle, IntelliJ IDEA, Brackets
+* **Vibe Coding Platforms:** Google AI Studio
+
+---
+### 🚀 Featured Projects
+
+#### [Broadway Ticket Pricing Predictor](https://github.com/catherinelarson-0/Broadway-Ticket-Pricing-Predictor-DSC-465-Final-Project)
+*   **Description:** A machine learning model that predicts ticket prices for the user, given their input of a week and production.
+*   **Tech Stack:** Python, Google Colab, HuggingFace, GitHub
+*   **Links:** [GitHub Repository](https://github.com/catherinelarson-0/Broadway-Ticket-Pricing-Predictor-DSC-465-Final-Project/tree/main)
+*   **Attributions:** This was a group project developed for the DSC 465: Machine Learning course at Creighton University.
+
+#### [Recipe Manager](https://github.com/Malaynee/CSC_548_Project)
+*   **Description:** A web application that reduces food waste and enhances sustainability by allowing users to input the ingredients in their refrigerators and match with recipes containing these ingredients from the project's database.
+*   **Tech Stack (Not Exhaustive):** Java, HTML/CSS, ThymeLeaf, SpringBoot (Maven), Jira
+*   **Links:** [GitHub Repository](https://github.com/Malaynee/CSC_548_Project)
+*   **Attributions:** This was a group project developed for the CSC 548: Software Engineering course at Creighton University.
+
+#### [LexCompare](https://github.com/catherinelarson-0/Broadway-Ticket-Pricing-Predictor-DSC-465-Final-Project)
+*   **Description:** An application that allows users to upload two documents and compare their texts, permitting users to approve or deny changes within the application and export them to a Word document.
+*   **Tech Stack:** Google AI Studio (TypeScript, JSX)
+*   **Links:** [GitHub Repository Forthcoming!]
+*   **Attributions:** This was a vibe-coded project developed for the AI & The Practice of Law Summer Program, affiliated with Washington University Law School. This project is in development.
+
+---
