@@ -29,10 +29,15 @@ I am a senior studying Computer Science & Data Science at Creighton University, 
 *   **Links:** [GitHub Repository](https://github.com/Malaynee/CSC_548_Project)
 *   **Attributions:** This was a group project developed for the CSC 548: Software Engineering course at Creighton University.
 
-#### [LexCompare (Repository Forthcoming)]
+#### [NSF C.I. Compass Fellowship Program](https://ci-compass.org/student-fellowships/)
+*   **Description:** A comprehensive analysis of the data collection methods and workflow from the National Science Foundation's Geodedic Facility for the Advancement of Geosciences.
+*   **Links:** [Presentation Recording](https://youtu.be/pIhPfbUaT6c?si=-W2ON8c9--kIJ4iw&t=954)
+*   **Attributions:** This was a group project developed for the Spring 2025 iteration of the C.I. Compass Fellowship, affiliated with the National Science Foundation.
+
+#### LexCompare (Repository Forthcoming)
 *   **Description:** An application that allows users to upload two documents and compare their texts, permitting users to approve or deny changes within the application and export them to a Word document.
 *   **Tech Stack:** Google AI Studio (TypeScript, JSX)
-*   **Links:** [GitHub Repository Forthcoming!]
+*   **Links:** GitHub Repository Forthcoming!
 *   **Attributions:** This was a vibe-coded project developed for the AI & The Practice of Law Summer Program, affiliated with Washington University Law School. This project is in development.
 
 ---
