@@ -29,7 +29,7 @@ I am a senior studying Computer Science & Data Science at Creighton University, 
 *   **Links:** [GitHub Repository](https://github.com/Malaynee/CSC_548_Project)
 *   **Attributions:** This was a group project developed for the CSC 548: Software Engineering course at Creighton University.
 
-#### [LexCompare](https://github.com/catherinelarson-0/Broadway-Ticket-Pricing-Predictor-DSC-465-Final-Project)
+#### [LexCompare (Repository Forthcoming)]
 *   **Description:** An application that allows users to upload two documents and compare their texts, permitting users to approve or deny changes within the application and export them to a Word document.
 *   **Tech Stack:** Google AI Studio (TypeScript, JSX)
 *   **Links:** [GitHub Repository Forthcoming!]
